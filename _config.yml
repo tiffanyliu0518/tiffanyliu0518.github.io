@@ -70,5 +70,3 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
-# theme
-  theme: jekyll-theme-minimal
